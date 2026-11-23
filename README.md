@@ -1,3 +1,5 @@
+![Aerospace Engineering Banner](header.png)
+
 # Hi 👋, I'm Mustafa Soliman
 ### Second-year Aerospace Engineering Student — Cairo, Egypt
 
@@ -38,7 +40,7 @@ I'm seeking an **Aerospace Engineering internship** (in Egypt or remote) where I
 
 ## GitHub Stats
 
-![Mustafa Soliman's GitHub stats](https://github-readme-stats.vercel.app/api?username=donarita555&show_icons=true)
+![Mustafa Soliman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafamuhamed077&show_icons=true)
 
 ---
 
