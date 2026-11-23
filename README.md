@@ -34,6 +34,9 @@ I'm still learning these tools and using them for coursework and small practice 
 - **CAD** — learning the fundamentals of computer-aided design
 - **CFD basics** — learning the fundamentals of computational fluid dynamics
 
+## 🚀 Featured Project
+- **[Projectile Motion Lab](https://projectile-motion-chi.vercel.app/)** — Interactive simulator for projectile trajectories with wind and gravity (9.81 m/s²). [Try it live](https://projectile-motion-chi.vercel.app/) · [Code](https://github.com/mustafamuhamed077/projectile-motion)
+
 ## What I'm Looking For
 
 I'm seeking an **Aerospace Engineering internship** (in Egypt or remote) where I can support a team, learn industry tools and workflows, and apply what I'm studying in aerodynamics, flight mechanics, and space systems. I'm eager to learn, happy to start with foundational tasks, and open to guidance and mentorship.
