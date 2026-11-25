@@ -1,5 +1,7 @@
 ![Aerospace Engineering Banner](header.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Aerospace+Engineering+Student;Building+Space+and+Aerospace+Projects;Developing+New+Project+Ideas;Orbital+Mechanics+and+Space+Systems;Aerodynamics+%7C+Flight+Mechanics+%7C+CFD)](https://git.io/typing-svg)
+
 # Hi 👋, I'm Mustafa Soliman
 ### Second-year Aerospace Engineering Student — Cairo, Egypt
 
